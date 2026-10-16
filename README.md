@@ -34,4 +34,8 @@ Without the plugin, you can still add the server alone: see [mcp.flotthq.com/con
 
 ## What is kept
 
-For each call, Flott keeps the tool, the workspace and the outcome: never what you asked or what came back.
+For each call, Flott keeps the tool, the workspace and the outcome: never what you asked or what came back. What a tool writes, such as a routine, a dashboard or a person, is saved in your workspace like anything else in Flott.
+
+## Privacy
+
+[Privacy policy](https://www.flotthq.com/privacy-policy) · [Terms of service](https://www.flotthq.com/terms-of-service)
