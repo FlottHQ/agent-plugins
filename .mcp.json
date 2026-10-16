@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "flott": {
+      "type": "http",
+      "url": "https://mcp.flotthq.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "flott",
+  "description": "Flott's plugins for coding agents.",
+  "owner": {
+    "name": "Flott",
+    "email": "contact@flotthq.com"
+  },
+  "plugins": [
+    {
+      "name": "flott",
+      "source": "./",
+      "description": "Run your fleet operations from Claude: read and change your Flott workspaces, and build routines and dashboards.",
+      "author": {
+        "name": "Flott"
+      },
+      "homepage": "https://flotthq.com",
+      "repository": "https://github.com/FlottHQ/agent-plugins",
+      "license": "MIT",
+      "keywords": ["flott", "fleet", "logistics", "mcp"]
+    }
+  ]
+}
