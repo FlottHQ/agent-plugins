@@ -7,6 +7,7 @@
     "email": "contact@flotthq.com"
   },
   "homepage": "https://flotthq.com",
+  "privacyPolicyUrl": "https://www.flotthq.com/privacy-policy",
   "repository": "https://github.com/FlottHQ/agent-plugins",
   "license": "MIT",
   "keywords": ["flott", "fleet", "logistics", "transport", "operations", "routines", "dashboards", "mcp"],
