@@ -1,6 +1,6 @@
 # Flott for coding agents
 
-[Flott](https://flotthq.com) is where transport and logistics teams run their operations: assets, drivers, trips, movements, maintenance, energy, safety, and the records around them. This plugin lets Cursor, Claude Code and Codex work in your Flott workspaces as you, with exactly what your role allows.
+[Flott](https://flotthq.com) is where transport and logistics teams run their operations: assets, drivers, trips, movements, maintenance, gauges, safety, and the records around them. This plugin lets Cursor, Claude Code and Codex work in your Flott workspaces as you, with exactly what your role allows.
 
 ## What it adds
 
