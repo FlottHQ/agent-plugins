@@ -1,6 +1,6 @@
 # Flott for coding agents
 
-[Flott](https://flotthq.com) is where transport and logistics teams run their operations: vehicles, drivers, movements, maintenance, energy, safety, and the records around them. This plugin lets Cursor, Claude Code and Codex work in your Flott workspaces as you, with exactly what your role allows.
+[Flott](https://flotthq.com) is where transport and logistics teams run their operations: assets, drivers, movements, maintenance, energy, safety, and the records around them. This plugin lets Cursor, Claude Code and Codex work in your Flott workspaces as you, with exactly what your role allows.
 
 ## What it adds
 
@@ -29,7 +29,7 @@ Without the plugin, you can still add the server alone: see [mcp.flotthq.com/con
 ## Examples
 
 - "Give me a brief of today's operations in Flott"
-- "Every morning at 7, send me the vehicles due for maintenance this week"
+- "Every morning at 7, send me the assets due for maintenance this week"
 - "Build a dashboard of deliveries done per day that I can share with a customer"
 
 ## What is kept

@@ -16,7 +16,7 @@
   "interface": {
     "displayName": "Flott",
     "shortDescription": "Run your fleet operations from Codex.",
-    "longDescription": "Flott is where transport and logistics teams run their operations: vehicles, drivers, movements, maintenance, energy, safety and the records around them. With this plugin, Codex works in your Flott workspaces as you, with exactly what your role allows: it can look things up, change records, and build routines that run on their own and dashboards that stay current. You sign in to Flott the first time it connects, and choose which workspaces it can reach.",
+    "longDescription": "Flott is where transport and logistics teams run their operations: assets, drivers, movements, maintenance, energy, safety and the records around them. With this plugin, Codex works in your Flott workspaces as you, with exactly what your role allows: it can look things up, change records, and build routines that run on their own and dashboards that stay current. You sign in to Flott the first time it connects, and choose which workspaces it can reach.",
     "developerName": "Flott",
     "category": "Productivity",
     "capabilities": ["Read", "Write"],
@@ -26,7 +26,7 @@
     "logo": "./assets/logo.svg",
     "defaultPrompt": [
       "Give me a brief of today's operations in Flott",
-      "Every morning at 7, send me the vehicles due for maintenance this week",
+      "Every morning at 7, send me the assets due for maintenance this week",
       "Build a dashboard of deliveries done per day that I can share with a customer"
     ]
   }
