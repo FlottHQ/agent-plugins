@@ -10,7 +10,7 @@ Write a brief someone could read in a minute before their day starts. Read only:
 2. If they reach more than one workspace and did not say which, ask which one.
 3. Start with `query_entities` (`action: "describe"`) to see what this workspace tracks, then call each product tool you need with `action: "describe"` before its first real call. Do not guess parameters.
 4. Gather, for today:
-   - movements: planned, in progress, done, and any running late (`manage_movements`);
+   - trips: planned, in progress, done, and any over their type's limits or waiting for review (`manage_trips`);
    - assets off the road or due for maintenance (`manage_fleet`, `manage_maintenance`);
    - open safety events, if the workspace has them (`manage_safety`);
    - anything else the describe calls show is overdue or waiting on somebody.
