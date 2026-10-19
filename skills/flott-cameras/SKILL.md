@@ -1,6 +1,6 @@
 ---
 name: flott-cameras
-description: "How to set dash cameras up across a fleet and how to look at what they saw, with `manage_fleet`. Read this before turning cameras on for a batch of devices (\"set up the cameras on C0086 and C0109\", \"pull the road camera on every truck\"), naming views (road, cabin, cargo), pausing pulling or changing how long photos are kept, and before answering anything about what a vehicle's camera showed (\"what was happening when the truck stopped at 14:10\", \"show me the photos from yesterday's trip\", \"was the load covered\")."
+description: "How to set dash cameras up across a fleet and how to look at what they saw, with `manage_fleet`. Read this before turning cameras on for a batch of devices (\"set up the cameras on C0086 and C0109\", \"pull the road camera on every truck\"), naming views (road, cabin, cargo), pausing pulling or changing how long photos are kept, before answering anything about what a vehicle's camera showed (\"what was happening when the truck stopped at 14:10\", \"show me the photos from yesterday's trip\", \"was the load covered\"), and before building a camera sensor that reads photos (\"count the passengers\", \"read the fuel gauge\", \"which seats are taken\")."
 ---
 
 # Flott Cameras
