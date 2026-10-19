@@ -1,6 +1,6 @@
 ---
 name: flott-sensor-models
-description: "How to set the same sensor up on many vehicles and prove it works, with `manage_sensor_models`. Read this before building a camera or telemetry sensor for more than one or two vehicles (\"detect which seats are taken on our 10 buses\", \"the fuel litres on every Volvo\"), when a sensor reads right on some vehicles and wrong on others, before labelling photos or readings to score a sensor, and before deploying a sensor change to a fleet or rolling one back."
+description: "How to set the same sensor up on many assets, prove it works and look after it, with `manage_sensor_models`. Read this before building a camera or telemetry sensor for more than one or two assets (\"detect which seats are taken on our 10 assets\", \"the fuel litres on every Volvo\"), when a sensor reads right on some assets and wrong on others, before labelling photos or readings to score a sensor, before deploying a sensor change to a fleet or rolling one back, and when asked to keep a model right over time."
 ---
 
 # Flott Sensor Models
