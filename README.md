@@ -5,7 +5,7 @@
 ## What it adds
 
 - **The Flott MCP server** at `https://mcp.flotthq.com/mcp`. The first time it connects you sign in to Flott and choose which workspaces it can reach. You can see and revoke the connection, and every call it made, at [mcp.flotthq.com](https://mcp.flotthq.com).
-- **Skills** that tell the agent when to read Flott's guides before building something: routines, dashboards, artifacts, files, and the concierge. The guides themselves are served by the MCP server, so they always match the tools.
+- **Skills** that tell the agent when to read Flott's guides before building something: routines, dashboards, files, and the concierge. The guides themselves are served by the MCP server, so they always match the tools.
 - **Commands**:
   - `/flott-brief`: today's operations in a workspace, in a minute's read.
   - `/flott-routine`: turn something done by hand into a routine that runs on its own.
