@@ -5,11 +5,11 @@
 ## What it adds
 
 - **The Flott MCP server** at `https://mcp.flotthq.com/mcp`. The first time it connects you sign in to Flott and choose which workspaces it can reach. You can see and revoke the connection, and every call it made, at [mcp.flotthq.com](https://mcp.flotthq.com).
-- **Skills** that tell the agent when to read Flott's guides before building something: routines, dashboards, files, and the concierge. The guides themselves are served by the MCP server, so they always match the tools.
+- **Skills** that tell the agent when to read Flott's guides before building something: routines, interfaces, files, and the concierge. The guides themselves are served by the MCP server, so they always match the tools.
 - **Commands**:
   - `/flott-brief`: today's operations in a workspace, in a minute's read.
   - `/flott-routine`: turn something done by hand into a routine that runs on its own.
-  - `/flott-dashboard`: build a live page over the workspace's data.
+  - `/flott-interface`: build a live page over the workspace's data.
 
 ## Install
 
@@ -30,11 +30,11 @@ Without the plugin, you can still add the server alone: see [mcp.flotthq.com/con
 
 - "Give me a brief of today's operations in Flott"
 - "Every morning at 7, send me the assets due for maintenance this week"
-- "Build a dashboard of deliveries done per day that I can share with a customer"
+- "Build an interface of deliveries done per day that I can share with a customer"
 
 ## What is kept
 
-For each call, Flott keeps the tool, the workspace and the outcome: never what you asked or what came back. What a tool writes, such as a routine, a dashboard or a person, is saved in your workspace like anything else in Flott.
+For each call, Flott keeps the tool, the workspace and the outcome: never what you asked or what came back. What a tool writes, such as a routine, an interface or a person, is saved in your workspace like anything else in Flott.
 
 ## Privacy
 

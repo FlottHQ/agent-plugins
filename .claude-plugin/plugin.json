@@ -1,7 +1,7 @@
 {
   "name": "flott",
   "version": "0.1.0",
-  "description": "Run your fleet operations from Claude: read and change your Flott workspaces, and build routines and dashboards.",
+  "description": "Run your fleet operations from Claude: read and change your Flott workspaces, and build routines and interfaces.",
   "author": {
     "name": "Flott",
     "email": "contact@flotthq.com"
@@ -10,6 +10,6 @@
   "privacyPolicyUrl": "https://www.flotthq.com/privacy-policy",
   "repository": "https://github.com/FlottHQ/agent-plugins",
   "license": "MIT",
-  "keywords": ["flott", "fleet", "logistics", "transport", "operations", "routines", "dashboards", "mcp"],
+  "keywords": ["flott", "fleet", "logistics", "transport", "operations", "routines", "interfaces", "mcp"],
   "mcpServers": "./.mcp.json"
 }

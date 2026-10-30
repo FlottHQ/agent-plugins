@@ -9,7 +9,7 @@
     {
       "name": "flott",
       "source": "./",
-      "description": "Run your fleet operations from Claude: read and change your Flott workspaces, and build routines and dashboards.",
+      "description": "Run your fleet operations from Claude: read and change your Flott workspaces, and build routines and interfaces.",
       "author": {
         "name": "Flott"
       },

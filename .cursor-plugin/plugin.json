@@ -2,7 +2,7 @@
   "name": "flott",
   "displayName": "Flott",
   "version": "0.1.0",
-  "description": "Run your fleet operations from Cursor: read and change your Flott workspaces, and build routines and dashboards.",
+  "description": "Run your fleet operations from Cursor: read and change your Flott workspaces, and build routines and interfaces.",
   "author": {
     "name": "Flott",
     "email": "contact@flotthq.com"
@@ -11,7 +11,7 @@
   "privacyPolicyUrl": "https://www.flotthq.com/privacy-policy",
   "repository": "https://github.com/FlottHQ/agent-plugins",
   "license": "MIT",
-  "keywords": ["flott", "fleet", "logistics", "transport", "operations", "routines", "dashboards", "mcp"],
+  "keywords": ["flott", "fleet", "logistics", "transport", "operations", "routines", "interfaces", "mcp"],
   "logo": "./assets/logo.svg",
   "mcpServers": "./.mcp.json",
   "skills": "./skills",
