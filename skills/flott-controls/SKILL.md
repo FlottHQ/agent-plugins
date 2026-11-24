@@ -1,6 +1,6 @@
 ---
 name: flott-controls
-description: "How to send things to devices and set up what can be sent, with `manage_controls`. Read this before adding a button to a device (\"add a control to open the gate\", \"a siren on truck 12\", \"let dispatch message the phones\"), before sending one (\"open the tipper on HOWO 4\", \"sound the siren on every truck at the depot\", \"ask the tracker where it is\", \"take a photo with Awa's phone\"), when somebody asks whether a command went through or why it did not, and when a command waits for approval."
+description: "How to send things to devices, hold them in a state, and set up what can be sent, with `manage_controls`. Read this before adding a button to a device (\"add a control to open the gate\", \"a siren on truck 12\", \"let dispatch message the phones\"), before holding one (\"keep the trucks locked at night\", \"run the oven at 180 for 40 minutes then 120 for 20\"), before sending one (\"open the tipper on HOWO 4\", \"sound the siren on every truck at the depot\", \"ask the tracker where it is\", \"take a photo with Awa's phone\"), when somebody asks whether a command went through or why it did not, and when a command waits for approval."
 ---
 
 # Flott Controls
